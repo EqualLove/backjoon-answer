@@ -3,10 +3,10 @@
 
 
 # Solved
-| **Number**      | **Solved Date**      | **Title**                                     | **Using Language**                |   |
+| **Number**      | **Solved Date**      | **Title**                                     | **Using Language**                | **Source-Code**  |
 |-----------|-----------|----------------------------------------------|-----------------------------|---|
-| 1000 | 2016.02.27 | A+B  | Jeonbuk National University |C++|
-|           |           |                                              |                             |   |
+| 1000 | 2016.02.27 | A+B  | C++ |                                     |                             |   |
+| 1001 | 2016.02.27 | A-B  | C++ |                                     |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
