@@ -1,0 +1,24 @@
+#pragma once
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int score[5];
+	int total = 0;
+	int ave = 0;
+	for (int initial = 0; initial < 5; initial++) {
+		score[initial] = 0;
+	}
+	for (int i = 0; i < 5; i++) {
+		cin >> score[i];
+		if (score[i] < 40) {
+			score[i] = 40;
+		}
+		total += score[i];
+	}
+	ave = total / 5;
+	cout << ave << endl;
+	return 0;
+
+}

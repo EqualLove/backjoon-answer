@@ -1,0 +1,38 @@
+#pragma once
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int num1 = 0, num2 = 0, num3 = 0;
+	int initial = 0;
+	int count = 0;
+	int middle = 0;
+	cin >> num1 >> num2 >> num3;
+	for (initial = 1; initial <= 100; initial++) {
+		if (initial == num1) {
+			count++;
+			if (count >= 2) {
+				middle = initial;
+				break;
+			}
+		}
+		if (initial == num2) {
+			count++;
+			if (count >= 2) {
+				middle = initial;
+				break;
+			}
+		}
+		if (initial == num3) {
+			count++;
+			if (count >= 2) {
+				middle = initial;
+				break;
+			}
+		}
+	}
+	cout << initial << endl;
+	return 0;
+
+}
