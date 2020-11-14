@@ -5,7 +5,7 @@
 # Solved
 | **Number**      | **Solved Date**      | **Title**                                     | **Using Language**                | **Source-Code**  |
 |-----------|-----------|----------------------------------------------|-----------------------------|---|
-| 1000 | 2016.02.27 | A+B  | C++ |                                     |                             |   |
+| 1000 | 2016.02.27 | A+B  | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/1000.txt" download="1000">download<a>                                     |                             |   |
 | 1001 | 2016.02.27 | A-B  | C++ |                                     |                             |   |
 | 1008 | 2016.02.27 | A/B  | C++ |                                     |                             |   |
 | 2438 | 2016.02.27 | 별 찍기 - 1 | C++ |                               |                             |   |
