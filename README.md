@@ -22,7 +22,7 @@
 | 10869| 2016.02.27 | 사칙연산 | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/10869.txt" download="10869">SEE<a>                                 |                             |   |
 | 10998| 2016.02.27 | A×B  | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/10998.txt" download="10998">SEE<a>                                   |                             |   |
 | 10950| 2020.11.14 | A+B-3| C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/10950.txt" download="10950">SEE<a>                                   |                             |   |
-|           |           |                                              |                             |   |
+| 1330 | 2020.11.14 | 두 수 비교하기 | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/1330.txt" download="1330">SEE<a>                             |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
