@@ -23,8 +23,8 @@
 | 10998| 2016.02.27 | A×B  | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/10998.txt" download="10998">SEE<a>                                   |                             |   |
 | 10950| 2020.11.14 | A+B-3| C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/10950.txt" download="10950">SEE<a>                                   |                             |   |
 | 1330 | 2020.11.14 | 두 수 비교하기 | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/1330.txt" download="1330">SEE<a>                             |                             |   |
-|           |           |                                              |                             |   |
-|           |           |                                              |                             |   |
+| 10718| 2020.11.19 | We love kriii | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/10718.txt" download="10718">SEE<a>                         |                             |   |
+| 9498 | 2020.11.19 | 시험 성적 | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/9498.txt" download="9498">SEE<a>                                 |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
