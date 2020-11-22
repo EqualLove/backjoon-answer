@@ -25,7 +25,7 @@
 | 1330 | 2020.11.14 | 두 수 비교하기 | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/1330.txt" download="1330">SEE<a>                             |                             |   |
 | 10718| 2020.11.19 | We love kriii | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/10718.txt" download="10718">SEE<a>                         |                             |   |
 | 9498 | 2020.11.19 | 시험 성적 | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/9498.txt" download="9498">SEE<a>                                 |                             |   |
-|           |           |                                              |                             |   |
+| 8393 | 2020.11.22 | 합    | C++ |<a href="https://github.com/EqualLove/backjoon-answer/blob/main/source-code/8393.txt" download="8393">SEE<a>                                         |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
 |           |           |                                              |                             |   |
