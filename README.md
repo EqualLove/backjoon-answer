@@ -1,5 +1,8 @@
 # backjoon-answer
-##There are source-codes that I solved in backjoon online judge
+## There are source-codes that I solved in backjoon online judge
+
+# How to find code?
+## Ctrl + F in your browser and type number or title which you want to find
 
 
 # Solved
